@@ -1,0 +1,7 @@
+[auth]
+token=8a20897217734489852bc7330928cca3f52268cdf65448a88b67be76e7dc85f3
+
+[defaults]
+url=http://127.0.0.1:9000
+org=shopee
+project=react-demo
